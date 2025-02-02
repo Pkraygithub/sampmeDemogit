@@ -16,7 +16,7 @@ public class JavaDemo {
 		
 		JavaDemo d= new JavaDemo();
 		
-		d.DemoFunc("null");
+		d.DemoFunc(111);
 	}
 
 }
