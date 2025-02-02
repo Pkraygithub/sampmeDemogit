@@ -10,6 +10,8 @@ public class JavaDemo1 {
 		
 		str=str+"append";
 		System.out.println(str);
+
+		System.out.println("This is String");
 				
 	}
 
